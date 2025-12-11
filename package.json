@@ -1,25 +1,25 @@
 {
-  "name": "SHABAN-MD",
+  "name": "LALU",
   "version": "6.0.0",
-  "description": "WHATSAPP BOT CREATED BY MR SHABAN⁴⁵",
+  "description": "WHATSAPP BOT CREATED BY MR LALU⁴⁵",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name LALU",
+    "stop": "pm2 stop LALU",
+    "restart": "pm2 restart LALU"
   },
   "keywords": [
-    "shaban-md",
+    "LALU",
     "whatsapp-bot",
     "baileys-bot",
     "multi-device-bot",
-    "shaban",
-    "shaban-md-bot",
+    "LALU",
+    "LALU-bot",
     "bot-whatsapp",
     "whatsapp-md",
     "nodejs-whatsapp-bot",
-    "mr-shaban",
-    "shaban-ai",
+    "mr-LALU",
+    "LALU-ai",
     "bandaheali-ai",
     "wa-bot",
     "openai-bot",
@@ -27,7 +27,7 @@
     "whatsapp-md-bot",
     "ai-bot",
     "baileys-whatsapp",
-    "shaban-md-whatsapp-bot",
+    "LALU-md-whatsapp-bot",
     "chatbot"
   ],
   "dependencies": {
